@@ -218,26 +218,22 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 ### Hasil Run :
 - Menambah data
 
-![Runpraktikum](https://user-images.githubusercontent.com/115677839/205904333-0b40d5d8-0666-441d-8edc-0501f6aa8966.png)
-
-![Runpraktikum (2)](https://user-images.githubusercontent.com/115677839/205904391-c65f6636-150f-4993-9342-4cdafee247b1.png)
+![alt text](?raw=true)
 
 - Menampilkan data
 
-![Runpraktikum (3)](https://user-images.githubusercontent.com/115677839/205904780-ca7a8869-ff3e-4897-972f-04011b338e3c.png)
-
+![alt text](?raw=true)
 - Mengubah data 
 
-![RunPraktikum (4)](https://user-images.githubusercontent.com/115677839/205905669-23104857-b5f7-4554-b61b-7570add69ab8.png)
+![alt text](?raw=true)
 
 
 - Menghapus data 
 
-![Menghapus Data](https://user-images.githubusercontent.com/115867244/205799298-cee570ef-02fc-47b0-9fe1-9245be7c5030.png)
-
+![alt text](?raw=true)
 - Selesai
 
-![Selesai](https://user-images.githubusercontent.com/115867244/205799907-d2985822-7742-47de-8703-d44e07dae985.png)
+![alt text](?raw=true)
 
 ## Penjelasan Program :
 1. Definisikan dictionary terlebih dahulu data = {}.
