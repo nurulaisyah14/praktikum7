@@ -59,13 +59,10 @@ Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
     print(d("Nurul"))
     
 ### Program :
-![Latihan1](https://user-images.githubusercontent.com/115677839/205903640-0502ff9d-4acd-418b-b19b-870143767b65.png)
-
-
+![alt text](?raw=true)
 ### Hasil Run :
 
-![Run latihan1](https://user-images.githubusercontent.com/115677839/205904215-2a8f2354-448e-4e59-9b8c-54e082a42083.png)
-
+![alt text](?raw=true)
 
 ## Praktikum 6
 Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
@@ -212,8 +209,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
     
 ### Program :
 
-![Praktikum](https://user-images.githubusercontent.com/115677839/205904277-791e0600-5798-4cdb-9c64-9ef7eb259cd6.png)
-
+![alt text](?raw=true)
 
 ### Hasil Run :
 - Menambah data
